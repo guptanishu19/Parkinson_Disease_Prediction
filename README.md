@@ -4,6 +4,7 @@ Parkinson's disease is a progressive disorder of the CNS affecting movement and 
 This is chronic and has no cure yet. It is a neurodegenerative disorder affecting dopamine producing neurons in the brain.
 
 Loaded the data, obtain the features and labels, scaled the feature, the splitted the dataset, built the DecisionTreeClassifier, changed the random state from 0 to 7 and then calculated the accuracy of the model.
+Achieved an accuracy of 95.92%.
 
 Programming Language: Python3
 
